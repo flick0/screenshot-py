@@ -1,0 +1,6 @@
+import pyperclip
+
+
+pyperclip==1.8.2
+aiohttp==3.8.1
+python-dotenv==0.20.0
