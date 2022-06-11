@@ -13,5 +13,5 @@ $ pip install -r ./requirements.txt
 to use `sspy` command from anywhere move the file to `/usr/bin/`
 
 ```bash
-$ mv ./sspy /usr/bin/
+$ cp ./sspy /usr/bin/
 ```
