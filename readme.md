@@ -4,6 +4,14 @@
 
 - `maim` or `scrot`
 
-```py
-pip install -r ./requirements.txt
+```bash
+$ pip install -r ./requirements.txt
+```
+
+## move to bin
+
+to use `sspy` command from anywhere move the file to `/usr/bin/`
+
+```bash
+$ mv ./sspy /usr/bin
 ```
